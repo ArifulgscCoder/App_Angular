@@ -1,7 +1,5 @@
 # 🌟 ProductsApp
 
-![ProductsApp Logo](path/to/your/logo.png) <!-- Add your logo here -->
-
 ## 📜 Description
 **ProductsApp** is a full-stack Angular and ASP.NET Core Web API application designed to manage product data effectively. This application enables users to perform CRUD operations on products, making it ideal for learning and implementing end-to-end product management in a web environment.
 
